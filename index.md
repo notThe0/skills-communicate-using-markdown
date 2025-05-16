@@ -5,3 +5,6 @@
 ##### The tiny header
 ###### Header?
 ![Image of Octobi Wan Catnobi](https://octodex.github.com/images/octobiwan.jpg)
+``` c
+char *a = "Hello, World!";
+```
